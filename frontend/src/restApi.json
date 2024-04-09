@@ -1,0 +1,174 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./compassion.png",
+                "title": "Compassion:",
+                "description": "Our donation community is driven by a deep sense of empathy and care for others, motivating us to support those in need with kindness and understanding.." 
+            },
+            {
+                "id": 2,
+                "image": "./collaboration.png",
+                "title": "Collaboration:",
+                "description": "We believe in the power of coming together as a community to pool our resources, skills, and efforts toward common charitable goals, fostering a sense of unity and shared purpose.." 
+            },
+            {
+                "id": 3,
+                "image": "./transparency.png",
+                "title": "Transparency: ",
+                "description": "Transparency is a cornerstone of our community, ensuring that donors have confidence in where their contributions are going and how they are being utilized, thereby building trust and accountability." 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./drive1.jpg",
+                "title": "FIRST DRIVE(10/4/22)",
+                "category": "Food"
+            },
+            {
+                "id": 2,
+                "image": "./drive2.jpg",
+                "title": "FIRST SUMMER DRIVE",
+                "category": "Refreshment"
+            },
+            {
+                "id": 3,
+                "image": "./drive3.jpg",
+                "title": "FRESH HYGENIC",
+                "category": "Packed Food"
+            },
+            {
+                "id": 4,
+                "image": "./drive4.jpg",
+                "title": "DIWALI DRIVE",
+                "category": "Sweets"
+            },
+            {
+                "id": 5,
+                "image": "./drive5.jpg",
+                "title": "FIRST WINTER DRIVE",
+                "category": "Blankets"
+            },
+            {
+                "id": 6,
+                "image": "./drive6.jpg",
+                "title": "FIRST ANNIVERSARY",
+                "category": "HOPE Foundation"
+            },
+            {
+                "id": 7,
+                "image": "./drive7.jpg",
+                "title": "SNACKS DISTRIBUTION",
+                "category": "Snacks"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.png",
+                "title": "SECOND ANNIVERSARY",
+                "category": "."
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team1.jpg",
+                "name": "SHUBHDEEP PAUL",
+                "designation": "Founder"
+            },
+            {
+                "id": 2,
+                "image": "./team2.jpg",
+                "name": "VIKAS",
+                "designation": "Manager"
+            },
+            {
+                "id": 3,
+                "image": "./team3.jpg",
+                "name": "PRIYANSHU",
+                "designation": "Trusty"
+            },
+            {
+                "id": 4,
+                "image": "./team4.jpg",
+                "name": "PIYUSH",
+                "designation": "Member"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "0%",
+                "title": "A Non-Profitable Organisation"
+            },
+            {
+                "id": 2,
+                "number": "2+",
+                "title": "Yrs Old Organisation"
+            },
+            {
+                "id": 3,
+                "number": "10+",
+                "title": "Community Members Still Growing"
+            },
+            {
+                "id": 4,
+                "number": "20+",
+                "title": "Donation Drives still Counting"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "QUERIES!?",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
