@@ -25,7 +25,7 @@ Welcome to BayOfHelp, a donation community platform built using the MERN stack. 
    - Create a `.env` file in the root directory
    - Define environment variables (e.g., PORT, MONGO_URI, JWT_SECRET)
 5. Start the development server: `npm run dev`
-6. Access the application at `http://localhost:3000`
+6. Access the application at `http://localhost:4000`
 
 ## Contributing
 We welcome contributions from the community to help improve BayOfHelp. Please follow these steps:
@@ -38,5 +38,4 @@ We welcome contributions from the community to help improve BayOfHelp. Please fo
 ## Acknowledgements
 We extend our gratitude to the open-source community for their invaluable contributions and support.
 
-## Contact
-For any inquiries or feedback, please email us at bayofhelp@example.com.
+
